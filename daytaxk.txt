@@ -1,4 +1,4 @@
-note (java script Day task)
+note (java script Day 2 task)
 1) Difference between windows and documenet objects
 
 For better understanding  for this concepts,
