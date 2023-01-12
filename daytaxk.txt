@@ -1,0 +1,65 @@
+note (java script Day task)
+1) Difference between windows and documenet objects
+
+For better understanding  for this concepts,
+1.windows is a parent object.
+2.document is a child object.
+3.some and more windows are present in browser JS and not present in node js
+ 4.example:   some most seen windows methods,are
+                    *window.globalthis()
+                    *window.alert()
+                    *window.screen()
+                    *window.prompt() 
+                    *window.print();
+                    *window.closed();
+                    and more
+5.we can access the  properties of the windows object  by using . dot notation
+  ex: window.history
+6.we can access the document using window.document,to access the html page in our console.
+  
+7.window objects represent a window in a browser.
+8..window objects containing an document(DOM).
+9. Document object is the propertey  of the windows object  that represents  DOM document  loaded in that window.
+10. Document contains the content   data with structure,style of  the page.
+11. The document object is your HTML or XML  other document that loaded into your browser.
+12. windows contains properties and methods.
+13. There are 3 types of objects in the windows
+    they are,
+    *user ----------to support windows management
+    *graphics device interface-------- to support graphics
+    *kernel -------------- to support memory  management
+14.web page is a document that displayed in the browser.
+15. In a single web page contains many api(application programming interface) which carries many data.
+
+    
+For better understanding  for this concepts,
+1.windows is a parent object.
+2.document is a child object.
+3.some and more windows are present in browser JS and not present in node js
+ 4.example:   some most seen windows methods,are
+                    *window.globalthis()
+                    *window.alert()
+                    *window.screen()
+                    *window.prompt() 
+                    *window.print();
+                    *window.closed();
+                    and more
+5.we can access the  properties of the windows object  by using . dot notation
+  ex: window.history
+6.we can access the document using window.document,to access the html page in our console.
+  
+7.window objects represent a window in a browser.
+8..window objects containing an document(DOM).
+9. Document object is the propertey  of the windows object  that represents  DOM document  loaded in that window.
+10. Document contains the content   data with structure,style of  the page.
+11. The document object is your HTML or XML  other document that loaded into your browser.
+12. windows contains properties and methods.
+13. There are 3 types of objects in the windows
+    they are,
+    *user ----------to support windows management
+    *graphics device interface-------- to support graphics
+    *kernel -------------- to support memory  management
+14.web page is a document that displayed in the browser.
+15. In a single web page contains many api(application programming interface) which carries many data.
+
+    
